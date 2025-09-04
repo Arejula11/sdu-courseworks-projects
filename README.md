@@ -23,7 +23,7 @@ Each entry includes a brief description and a link to the corresponding reposito
 
 | **Subject** | **Project** |**Description** | **Date** |
 | --- | --- | --- | ---|
-| **Scientific Methods** |  |  | |
+| **Scientific Methods** | [Course Project](https://github.com/Arejula11/Advanced_Software_Architecture_Analysis_Techniques) |  |  |
 | **Advanced Software Engineering Methodologies**                   |  |  | |
 | **Advanced Software Architecture and Analysis Techniques**                   |  |  | |
 | **Big Data and Data Science Technology**                   |  |  | |
